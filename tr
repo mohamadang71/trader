@@ -41,7 +41,6 @@ jspm_packages/
 
 # Microbundle 
 .rpt2_cache/
-.rts2_cache_cjs/
 .rts2_cache_es/
 
 # Optional REPL history
