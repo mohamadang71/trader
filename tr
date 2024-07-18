@@ -4,7 +4,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna
-#yugnostic reports (httejs.org/api/report.html)
+#yugnostic reports (httejs.org/apist.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.jss
 # Runtime data
 
